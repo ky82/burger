@@ -12,7 +12,7 @@ In this assignment, you'll create a burger logger with MySQL, Node, Express, Han
 # Installation:
 
 Install Locally
-git clone URL
+git clone https://ky82.github.io/burger/
 cd eat-da-burger/
 npm install
 Setup Database
